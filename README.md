@@ -15,4 +15,4 @@
 </div>
 
   
-  ![Snake animation](https://github.com/nakszor/nakszor/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nakszor/blob/output/github-contribution-grid-snake.svg)
