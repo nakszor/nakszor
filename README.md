@@ -18,6 +18,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakszor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  :speech_balloon: My commits:
   
+  :speech_balloon: My commits:
   ![Snake animation](https://github.com/nakszor/nakszor/blob/output/github-contribution-grid-snake.svg)
