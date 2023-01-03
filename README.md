@@ -20,4 +20,5 @@
 
   
   :speech_balloon: My commits:
+  
   ![Snake animation](https://github.com/nakszor/nakszor/blob/output/github-contribution-grid-snake.svg)
