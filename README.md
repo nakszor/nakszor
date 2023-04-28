@@ -2,7 +2,7 @@
 ## My name is Ana Carla and my nickname is "naks"!
 
 - 🌱 I’m currently learning Python and Spanish.
-- 👯 I’m looking to collaborate on React, Node/Express and Python/Django projects.
+- 👯 I’m looking to collaborate on React/Next, Node/Express and Python/Django projects.
 - 😄 Pronouns: she/her/hers.
 - ⚡ Fun fact: I'm a big fan of Taylor Swift.
 
