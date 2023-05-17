@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning Python and Spanish.
 - 👯 I’m looking to collaborate on React/Next, Node/Express and Python/Django projects.
-- 😄 Pronouns: she/her/hers.
-- ⚡ Fun fact: I'm a big fan of Taylor Swift.
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: I'm a big fan of How I met your mother.
 
 # 👨🏻‍💻  Things I code with
 
