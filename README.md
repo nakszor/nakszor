@@ -1,10 +1,10 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Ana Carla and my nickname is "naks"!
 
-- 🌱 I’m currently learning Java and Spanish.
+- 🌱 I’m currently learning Java and improving my English skills.
 - 👯 I’m looking to collaborate on React/Next, Node/Express and Python/Django projects.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I'm a big fan of How I met your mother.
+- ⚡ Fun fact: I'm a big fan of the sitcom How I met your mother.
 
 # 👨🏻‍💻  Things I code with
 
