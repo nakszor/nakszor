@@ -27,7 +27,7 @@
 
 <div>
   
- # :chart_with_upwards_trend:  Some Code Stats
+ # :chart_with_upwards_trend:  
   
 <a href="https://github.com/nakszor"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakszor&layout=compact&langs_count=7&theme=dracula"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nakszor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -35,11 +35,13 @@
   
 
   
- # :left_speech_bubble: How to reach me: 
+ # :left_speech_bubble: Fale comigo: 
   
   <div><div>
 <a href = "mailto:anacarlaa16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href="https://www.linkedin.com/in/nakszor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/nakszor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href="https://wa.me/seunumerosemespaço" target="_blank"<<img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
 </div>
   
