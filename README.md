@@ -1,5 +1,5 @@
-<h1>👋 Olá! Bem-vindo(a) ao meu perfil do GitHub.<h1>
-<h2>Meu nome é Ana Carla, mas pode me chamar de "naks"!<h2>
+<h1>👋 Olá! Bem-vindo(a) ao meu perfil do GitHub.</h1>
+<h2>Meu nome é Ana Carla, mas pode me chamar de "naks"!</h2>
 
 🎓 Estou cursando Análise e Desenvolvimento de Sistemas — 1º semestre.
 
@@ -42,6 +42,6 @@
 
 <a href="https://www.linkedin.com/in/nakszor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<a href="https://wa.me/5512983003506" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
+<a href="https://wa.me/5512983003506" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
   
