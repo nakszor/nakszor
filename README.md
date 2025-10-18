@@ -1,12 +1,17 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Ana Carla and my nickname is "naks"!
+👋 Olá! Bem-vindo(a) ao meu perfil do GitHub.
+Meu nome é Ana Carla, mas pode me chamar de "naks"!
 
-- 🌱 I’m currently learning Java and improving my English skills.
-- 👯 I’m looking to collaborate on React/Next, Node/Express and Python/Django projects.
-- 😄 Pronouns: she/her.
-- ⚡ Fun fact: I'm a big fan of the sitcom How I met your mother.
+🎓 Estou cursando Análise e Desenvolvimento de Sistemas — 1º semestre.
 
-# 👨🏻‍💻  Things I code with
+🌱 Atualmente aprendendo Java e aprimorando meu inglês.
+
+👯 Em busca de colaborar em projetos com React/Next, Node/Express e Python/Django.
+
+😄 Pronomes: ela/dela.
+
+⚡ Curiosidade: sou uma grande fã da série How I Met Your Mother.
+
+👨🏻‍💻 Tecnologias com as quais trabalho
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"   width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"  width="40" height="40"/>
