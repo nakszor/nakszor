@@ -1,11 +1,7 @@
 <h1>👋 Olá! Bem-vindo(a) ao meu perfil do GitHub.</h1>
 <h2>Meu nome é Ana Carla, mas pode me chamar de "naks"!</h2>
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas — 2º semestre.
-
-🌱 Atualmente estou desenvolvendo um projeto em python para a faculdade e aprimorando meu inglês.
-
-👯 Em busca de colaborar em projetos com React/Next, Node/Express e Python/Django.
+🎓 Estou cursando Análise e Desenvolvimento de Sistemas — 3º semestre.
 
 😄 Pronomes: ela/dela.
 
