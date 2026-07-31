@@ -1,30 +1,51 @@
-<h1>👋 Olá! Bem-vindo(a) ao meu perfil do GitHub.</h1>
-<h2>Meu nome é Ana Carla, mas pode me chamar de "naks"!</h2>
+# Olá! 👋 Eu sou a Ana Carla
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas — 3º semestre.
+💻 Desenvolvedora Full Stack apaixonada por tecnologia e resolução de problemas.
 
-😄 Pronomes: ela/dela.
+Atualmente trabalho com desenvolvimento web utilizando Vue.js, Laravel e JavaScript/TypeScript, participando da criação de novas funcionalidades, integrações e melhorias de performance em sistemas corporativos.
 
-⚡ Curiosidade: sou uma grande fã da série How I Met Your Mother.
+## 🚀 Tecnologias
 
-👨🏻‍💻 Tecnologias com as quais trabalho
+**Frontend**
+- Vue.js
+- React
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"   width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"   width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"  width="40" height="40"/>
+**Backend**
+- PHP
+- Laravel
+- Node.js
+- Express
+- Python
+- Django
 
-<div>
-          
- # :left_speech_bubble: Fale comigo: 
-<a href = "mailto:anacarlaa16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+**Banco de Dados**
+- PostgreSQL
+- MySQL
 
-<a href="https://www.linkedin.com/in/nakszor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+**Ferramentas**
+- Git
+- GitHub
+- Docker
+- REST APIs
+- Postman
 
-<a href="https://wa.me/5512983003506" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
-  
+## 📚 Atualmente
+
+- 💼 Desenvolvedora na Byecar
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas
+- 📖 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/nakszor/
+- Email: anacarlaa16@gmail.com
+
+---
+
+> "A tecnologia muda o mundo quando encontra pessoas dispostas a aprender todos os dias."
