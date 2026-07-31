@@ -38,7 +38,7 @@ Atualmente trabalho com desenvolvimento web utilizando Vue.js, Laravel e JavaScr
 ## 📚 Atualmente
 
 - 💼 Desenvolvedora na Byecar
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📖 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento
 
 ## 📫 Contato
