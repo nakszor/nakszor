@@ -10,7 +10,7 @@
 
 ### Sobre mim
 
-Desenvolvo aplicações web de ponta a ponta, do front ao back, com foco em sistemas corporativos. No dia a dia crio novas funcionalidades, construo integrações entre sistemas e trabalho em melhorias de performance.
+Desenvolvo aplicações web de ponta a ponta, do front ao back, com foco em sistemas corporativos. No dia a dia crio novas funcionalidades, construo integrações entre sistemas, desenvolvo automações RPA e trabalho em melhorias de performance.
 
 - 💼 Desenvolvedora na **Byecar**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
